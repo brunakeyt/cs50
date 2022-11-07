@@ -7,7 +7,7 @@ Atividades do curso de Ciências da Computação
 
 > Feito com a biblioteca do CS50
 
-Arquivo letras-p-num
+Arquivo letras-p-num.c
 
 ![print](./letra-num.png)
 
