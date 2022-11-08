@@ -5,9 +5,19 @@ Atividades do curso de Ciências da Computação
 
 > Transformar letras em seus ASCII correspondentes.
 
-> Feito com a biblioteca do CS50
+> Usada biblioteca do CS50.
 
 Arquivo letras-p-num.c
 
 ![print](./letra-num.png)
+
+## Atividade 2:
+
+> Calcular o nível de leitura necessário para ler determinado texto.
+
+>Usada biblioteca do CS50.
+
+Arquivo readability.c
+
+![print](./readability.png)
 
